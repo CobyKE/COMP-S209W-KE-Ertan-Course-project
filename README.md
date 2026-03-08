@@ -1,1 +1,3 @@
 # COMP-S209W-KE-Ertan-Course-project
+#This project is a deep upgrade based on the original government sports venue football field reservation project(based on my own project in COMP S208W)
+#Based on the full core concepts of OOP, a comprehensive football field management system is developed by splitting it into multi-module Python files. It realizes core functions such as adding and modifying field information, maintaining status and managing permissions at the administrator end, as well as multi-condition query, reservation application, payment simulation, and historical record query at the user end. New practical functions such as reservation legality verification, data persistence, and reservation priority sorting have been added
